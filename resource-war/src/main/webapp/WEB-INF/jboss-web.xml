@@ -1,0 +1,3 @@
+<jboss-web>
+    <security-domain>learning</security-domain>
+</jboss-web>

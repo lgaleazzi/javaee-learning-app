@@ -1,0 +1,17 @@
+{
+  "id":1,
+  "rating":3,
+  "comment":"A review comment",
+  "createdAt": "2017-01-03",
+  "user":
+  {
+    "id":1,
+    "name":"Lena",
+    "email":"Lena@test.com"
+  },
+  "course":
+  {
+    "id":1,
+    "name":"Learn Swift"
+  }
+}

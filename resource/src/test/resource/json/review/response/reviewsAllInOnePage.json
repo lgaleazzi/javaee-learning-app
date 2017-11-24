@@ -1,0 +1,60 @@
+{
+  "paging":
+  {
+    "totalRecords":3
+  },
+  "entries":
+  [
+    {
+      "id":1,
+      "rating":3,
+      "comment":"A review comment",
+      "createdAt": "2017-01-03",
+      "user":
+      {
+        "id":1,
+        "name":"Lena",
+        "email":"Lena@test.com"
+      },
+      "course":
+      {
+        "id":1,
+        "name":"Learn Swift"
+      }
+    },
+    {
+      "id":2,
+      "rating":4,
+      "comment":"A review comment",
+      "createdAt": "2017-01-03",
+      "user":
+      {
+        "id":2,
+        "name":"Jan",
+        "email":"Jan@test.com"
+      },
+      "course":
+      {
+        "id":2,
+        "name":"Learn Python"
+      }
+    },
+    {
+      "id":3,
+      "rating":3,
+      "comment":"A review comment",
+      "createdAt": "2017-01-03",
+      "user":
+      {
+        "id":3,
+        "name":"Daniel",
+        "email":"Daniel@test.com"
+      },
+      "course":
+      {
+        "id":3,
+        "name":"Spanish for Beginners"
+      }
+    }
+  ]
+}

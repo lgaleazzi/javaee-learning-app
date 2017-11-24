@@ -1,0 +1,51 @@
+{
+  "paging": {
+    "totalRecords": 4
+  },
+  "entries": [
+    {
+      "id": 1,
+      "name": "Learn Swift",
+      "url": "http://test.com",
+      "description": "This is a course for complete beginners",
+      "category":
+      {
+        "id": 1,
+        "name": "Coding"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Learn Java",
+      "url": "http://test.com",
+      "description": "This is a course for complete beginners",
+      "category":
+      {
+        "id": 2,
+        "name": "Coding"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Learn Python",
+      "url": "http://test.com",
+      "description": "This is a course for complete beginners",
+      "category":
+      {
+        "id": 3,
+        "name": "Coding"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Spanish for Beginners",
+      "url": "http://test.com",
+      "description": "This is a course for complete beginners",
+      "category":
+      {
+        "id": 4,
+        "name": "Languages"
+      }
+    }
+  ]
+}

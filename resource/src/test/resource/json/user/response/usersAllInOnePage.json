@@ -1,0 +1,34 @@
+{
+    "paging": {
+        "totalRecords": 3
+    },
+    "entries": [
+        {
+            "id": 1,
+            "name": "Jan",
+            "email": "Jan@test.com",
+            "roles": [
+                "STANDARD"
+            ],
+            "createdAt": "2017-01-03"
+        },
+        {
+            "id": 2,
+            "name": "Lena",
+            "email": "Lena@test.com",
+            "roles": [
+                "STANDARD"
+            ],
+            "createdAt": "2017-01-03"
+        },
+        {
+            "id": 3,
+            "name": "Daniel",
+            "email": "Daniel@test.com",
+            "roles": [
+                "STANDARD"
+            ],
+            "createdAt": "2017-01-03"
+        }
+    ]
+}

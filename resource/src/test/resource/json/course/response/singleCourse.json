@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "name": "Learn Java",
+  "url": "http://test.com",
+  "description": "This is a course for complete beginners",
+  "category":
+  {
+    "id": 1,
+    "name": "Coding"
+  }
+}
